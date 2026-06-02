@@ -578,7 +578,7 @@ section{
 
 /* Baby image */
 .save-baby{
-    width:min(900px,100%);
+    width:min(900px,112%);
     margin-top:auto;
 
     display:block;
