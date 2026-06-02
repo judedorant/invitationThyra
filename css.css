@@ -61,8 +61,8 @@ section{
 
 .flower-bottom{
   position:absolute;
-  bottom:-4px;
-  right:-9px;
+    bottom: -8px;
+    right: -17px;
   width:28%;
   max-width:280px;
   min-width:120px;
