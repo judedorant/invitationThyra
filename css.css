@@ -179,7 +179,7 @@ section{
   right:7%;
 }
 /* SECOND PAGE */
-.second{
+/* .second{
     min-height:100vh;
     background:
       radial-gradient(circle at bottom,#ffd4dc 0%,transparent 40%),
@@ -187,7 +187,6 @@ section{
     text-align:center;
 }
 
-/* title */
 
 .section-title{
     margin-top:60px;
@@ -259,8 +258,8 @@ section{
     top:260px;
     font-size:45px;
     color:#59713b;
-}
-/* .second{
+} */
+.second{
   background:linear-gradient(to bottom,#fff8f1,#ffdfe7);
 }
 
@@ -277,7 +276,7 @@ section{
   margin-top:10px;
   color:#5f6e52;
   font-size:clamp(14px,2vw,22px);
-} */
+}
 
 .venue-wrapper{
   margin-top:70px;
